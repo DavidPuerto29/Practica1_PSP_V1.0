@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PSP_P1_Puerto_David:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PSP_P1_Puerto_David_jar</output-path>
+    <root id="archive" name="PSP_P1_Puerto_David.jar">
+      <element id="module-output" name="PSP_P1_Puerto_David" />
+    </root>
+  </artifact>
+</component>
